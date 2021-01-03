@@ -1,2 +1,2 @@
 # Ubuntu-bashes
-scripts from ubuntu 18.04
+Some scripts for easy use of ubuntu, tested on Ubuntu 18.04.
